@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522445423 source:c:\users\anfernee\documents\coding\numerical_analysis_3\assignment3.cpp
+	"predatorPrey.h"
+	"shotingBullet.h"
+	"newtonLawOfCooling.h"
+	<iostream>
+
+1522457132 c:\users\anfernee\documents\coding\numerical_analysis_3\predatorprey.h
+	<iostream>
+
+1522400292 c:\users\anfernee\documents\coding\numerical_analysis_3\shotingbullet.h
+	<iostream>
+
+1522447756 c:\users\anfernee\documents\coding\numerical_analysis_3\newtonlawofcooling.h
+	<cmath>
+	<iostream>
+
